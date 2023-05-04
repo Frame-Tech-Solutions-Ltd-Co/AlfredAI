@@ -112,16 +112,4 @@ As an autonomous experiment, ALFRED AI may generate content or take actions that
 
 By using ALFRED AI, you agree to indemnify, defend, and hold harmless the developers, contributors, and any affiliated parties from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from your use of this software or your violation of these terms.
 
-## 🐦 Connect with Us on Twitter
-
-Stay up-to-date with the latest news, updates, and insights about ALFRED AI by following our Twitter accounts. Engage with the developer and the AI's own account for interesting discussions, project updates, and more.
-
-- **Developer**: Nigel Phillips, Founder of Frame Tech Solutions.
-
-We look forward to connecting with you and hearing your thoughts, ideas, and experiences with ALFRED AI. Join us on Twitter and let's explore the future of AI together!
-
-<p align="center">
-  <a href="https://star-history.com/#Torantulino/auto-gpt&Date">
-    <img src="https://api.star-history.com/svg?repos=Torantulino/auto-gpt&type=Date" alt="Star History Chart">
-  </a>
-</p>
+## **Developer**: Nigel Phillips, Founder of Frame Tech Solutions.
